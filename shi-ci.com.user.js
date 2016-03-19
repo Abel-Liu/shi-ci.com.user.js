@@ -19,5 +19,5 @@ $(function() {
     $("div.x-box-top").css("padding","5px");
 
     $("body").css("background-image","url(a.jpg)");
-    console.log("shi-ci");
+    console.log("shici");
 });
