@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         shi-ci.com.user.js
 // @namespace    http://abelliu.com
-// @version      1.0
+// @version      1.1
 // @description  change article style.
 // @author       abel
 // @require      https://code.jquery.com/jquery-2.2.2.min.js
