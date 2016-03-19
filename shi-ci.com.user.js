@@ -5,7 +5,7 @@
 // @description  change article style.
 // @author       abel
 // @require      https://code.jquery.com/jquery-2.2.2.min.js
-// @import       http*://www.shi-ci.com/*
+// @import       http://www.shi-ci.com/*
 // @grant        none
 // ==/UserScript==
 
