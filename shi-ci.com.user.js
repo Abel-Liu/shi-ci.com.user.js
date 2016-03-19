@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         shi-ci.com.user.js
 // @namespace    http://abelliu.com
-// @version      1.1
+// @version      1.2
 // @description  change article style.
 // @author       abel
 // @require      https://code.jquery.com/jquery-2.2.2.min.js
@@ -19,5 +19,4 @@ $(function() {
     $("div.x-box-top").css("padding","5px");
 
     $("body").css("background-image","url(a.jpg)");
-    console.log("shici");
 });
